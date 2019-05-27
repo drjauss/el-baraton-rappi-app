@@ -1,0 +1,10 @@
+.Cart_no-product-msg{
+    display:block;
+    min-height:150px;
+}
+.Cart_no-product-msg i{
+    font-size:80px;
+}
+.Cart_lh{
+    line-height: 64px;
+}

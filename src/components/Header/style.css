@@ -1,0 +1,14 @@
+span.badge{
+    padding: 0px 6px;
+    border-radius:50px;
+    position:relative;
+    top:10px;
+    left:-10px;
+    min-width:auto;
+}
+
+span.badge-fab{
+    left:-26px;
+    z-index:99;
+    font-size:18px;
+}
